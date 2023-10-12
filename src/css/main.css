@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'call_of_ops_dutyregular';
+    src: url('call_of_ops_duty.woff2') format('woff2'),
+         url('call_of_ops_duty.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*{
+    /* for debug only */
+    /* outline: 1px solid red; */
+}
